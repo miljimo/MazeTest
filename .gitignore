@@ -1,0 +1,7 @@
+*.exe
+*/debug
+*/release
+*/bin
+*.suo
+*/obj/*
+*.pyc
